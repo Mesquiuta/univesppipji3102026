@@ -1,0 +1,2 @@
+"""Módulo de visualizações analíticas."""
+

@@ -1,0 +1,35 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Saídas de pipeline
+outputs/figures/*
+outputs/tables/*
+outputs/reports/*
+outputs/predictions/*
+!outputs/README.md
+
+# Artefatos de modelo
+models/*.joblib
+!models/README.md
+
+# Dados processados/intermediários
+data/interim/*
+data/processed/*
+!data/README.md
+

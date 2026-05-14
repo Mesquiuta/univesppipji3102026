@@ -1,0 +1,6 @@
+﻿Status: 11 passed
+
+Arquivos:
+- pytest_q_2026-03-31_19-15-28.log
+- pytest_vv_2026-03-31_19-15-28.log
+- environment_2026-03-31_19-15-28.log

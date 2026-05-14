@@ -1,0 +1,2 @@
+"""Configurações globais do projeto."""
+
